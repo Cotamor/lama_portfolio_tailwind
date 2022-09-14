@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+# tailwind
+input.css
+tailwind.config.js
+package-lock.json
+package.json
